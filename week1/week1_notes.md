@@ -115,20 +115,46 @@ Because the data is annual, it is useful for observing long-term CPI and inflati
 
 Each row represents one year of CPI and inflation data for Vietnam.
 
-### 14. What are the main variables?
 
-The main variables are:
+## D. Dataset Exploration
 
-| Variable | Type | Description |
+### Dataset Overview
+
+The dataset contains annual CPI and inflation data for Vietnam.
+
+- Number of observations: 30
+- Number of variables: 3
+- Time period: 1996-2025
+- Frequency: Annual
+- CPI base year: 2010 = 100
+
+### Variables
+
+| Variable | Type | Meaning |
 |---|---|---|
-| Year | Numerical / Time | The year of observation |
-| CPI (2010 = 100) | Numerical | Consumer Price Index, using 2010 as the base year |
-| Inflation | Numerical | Annual percentage change in the CPI |
+| Year | Time / Numerical | Year of the observation |
+| CPI (2010 = 100) | Numerical | Consumer Price Index relative to the 2010 base year |
+| Inflation | Numerical | Annual percentage change in consumer prices |
 
-### 15. Are there missing or unusual values?
 
-The dataset does not contain missing values in the main variables.
+### Analysis Period
 
-The CPI values generally increase over time.
+For Week 1, the main analysis focuses on the period from 2019 to 2025.
 
-Inflation changes from year to year, which is expected because the rate of price growth is not constant.
+| Year | CPI | Inflation |
+|---|---:|---:|
+| 2019 | 163.52 | 2.80% |
+| 2020 | 168.78 | 3.22% |
+| 2021 | 171.88 | 1.83% |
+| 2022 | 177.31 | 3.16% |
+| 2023 | 183.07 | 3.25% |
+| 2024 | 189.70 | 3.62% |
+| 2025 | 195.98 | 3.31% |
+
+### Initial Observations
+
+CPI increased every year between 2019 and 2025.
+
+However, the inflation rate did not increase continuously. It decreased significantly in 2021, increased again between 2022 and 2024, and then decreased slightly in 2025.
+
+This shows that CPI and inflation describe related but different aspects of price changes.
