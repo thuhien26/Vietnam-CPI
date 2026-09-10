@@ -95,3 +95,40 @@ No.
 A fall in inflation from 6% to 3% means prices are still increasing, but at a slower rate.
 
 Prices would generally be falling if the inflation rate became negative, which is called deflation.
+## C. Data Understanding
+
+### 11. Where does the dataset come from?
+
+The dataset contains Consumer Price Index (CPI) & Inflation rate data for Vietnam.
+
+Source: World Bank 
+
+### 12. What is the frequency of the dataset?
+
+The dataset has annual frequency.
+
+Each observation represents one year.
+
+Because the data is annual, it is useful for observing long-term CPI and inflation trends. However, it cannot show short-term monthly price movements.
+
+### 13. What does one row represent?
+
+Each row represents one year of CPI and inflation data for Vietnam.
+
+### 14. What are the main variables?
+
+The main variables are:
+
+| Variable | Type | Description |
+|---|---|---|
+| Year | Numerical / Time | The year of observation |
+| CPI (2010 = 100) | Numerical | Consumer Price Index, using 2010 as the base year |
+| Inflation | Numerical | Annual percentage change in the CPI |
+
+### 15. Are there missing or unusual values?
+
+The dataset does not contain missing values in the main variables.
+
+The CPI values generally increase over time.
+
+Inflation changes from year to year, which is expected because the rate of price growth is not constant.
