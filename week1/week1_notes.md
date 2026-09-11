@@ -158,3 +158,36 @@ CPI increased every year between 2019 and 2025.
 However, the inflation rate did not increase continuously. It decreased significantly in 2021, increased again between 2022 and 2024, and then decreased slightly in 2025.
 
 This shows that CPI and inflation describe related but different aspects of price changes.
+## Preliminary Findings
+
+1. Vietnam's CPI increased continuously from 2019 to 2025.
+
+2. CPI rose from approximately 163.5 in 2019 to about 196.0 in 2025.
+
+3. The increase was relatively slower between 2020 and 2021 compared with later years.
+
+4. CPI increased more strongly from 2022 onward.
+
+5. Although CPI increased every year, the inflation rate did not follow the same pattern, showing that the price level and the rate of price growth are different concepts.
+## D. Data Analysis Thinking
+
+### 16. Which period from 2019 to the present is most noticeable?
+
+The period from 2022 to 2024 is particularly noticeable because CPI increased more rapidly compared with the earlier period.
+
+### 17. Does CPI increase evenly over time?
+
+No. CPI generally increases over time, but the rate of increase is not constant. Some years show slower increases while others show faster increases.
+
+### 18. Is CPI alone enough to conclude that people are living worse?
+
+No. CPI only measures changes in consumer prices. To assess whether people are living worse, other indicators such as income, wages, employment, and purchasing power should also be considered.
+
+### 19. What other variables would be useful?
+
+- Income
+- Wages
+- GDP
+- Unemployment
+- Food prices
+- Housing costs
