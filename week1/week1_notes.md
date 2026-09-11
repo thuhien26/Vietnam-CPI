@@ -191,3 +191,24 @@ No. CPI only measures changes in consumer prices. To assess whether people are l
 - Unemployment
 - Food prices
 - Housing costs
+## E. Critical Thinking
+
+### 20. "CPI increased, therefore Vietnamese people are becoming poorer." Do you agree?
+
+Not necessarily.
+
+A higher CPI means prices have increased, but it does not directly mean people are poorer. We also need to consider income, wages, employment, and purchasing power.
+
+### 21. What is more dangerous for a Data Analyst: not knowing a tool or misunderstanding the data?
+
+Misunderstanding the data is more dangerous.
+
+Tools can be learned, but misunderstanding variables, units, or concepts can lead to incorrect conclusions/bad decisions
+## Final Response
+
+- CPI shows how the overall price level changes.
+- Inflation shows how fast CPI changes over time.
+- Vietnam's CPI increased from about 163.5 in 2019 to 196.0 in 2025.
+- Inflation fell to about 1.8% in 2021, rose to 3.6% in 2024, then decreased to 3.3% in 2025.
+- Prices can still increase even when inflation slows down.
+- Next, I would like to study wages, food prices, housing costs, unemployment, and GDP.
