@@ -191,3 +191,16 @@ No. CPI only measures changes in consumer prices. To assess whether people are l
 - Unemployment
 - Food prices
 - Housing costs
+## E. Critical Thinking
+
+### 20. "CPI increased, therefore Vietnamese people are becoming poorer." Do you agree?
+
+Not necessarily.
+
+A higher CPI means prices have increased, but it does not directly mean people are poorer. We also need to consider income, wages, employment, and purchasing power.
+
+### 21. What is more dangerous for a Data Analyst: not knowing a tool or misunderstanding the data?
+
+Misunderstanding the data is more dangerous.
+
+Tools can be learned, but misunderstanding variables, units, or concepts can lead to incorrect conclusions/bad decisions
